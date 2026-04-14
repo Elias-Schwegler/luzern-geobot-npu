@@ -1,0 +1,4 @@
+models/
+.venv-x64/
+__pycache__/
+*.pyc
