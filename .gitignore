@@ -1,4 +1,6 @@
 models/
+.venv/
 .venv-x64/
+cache_dir/
 __pycache__/
 *.pyc
